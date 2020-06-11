@@ -1,0 +1,9 @@
+Simple console file manager.
+
+The commands:
+
+getDrives - to get name of local drives;
+findFiles - to find files into your directory;
+showFile - get current file on console;
+changeFile - add first line to txt file;
+exit - close the application.
